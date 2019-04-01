@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Maven/netty-4.1.34.Final/jar/all-in-one/netty-all-4.1.34.Final.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/plugins/com.google.gson_2.7.0.v20170129-0911.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/plugins/com.google.inject_3.0.0.v201312141243.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
